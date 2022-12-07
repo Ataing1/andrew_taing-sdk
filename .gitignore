@@ -6,4 +6,4 @@ docs/
 .idea/
 coverage
 tests/
-package/__tests__
+# package/__tests__
